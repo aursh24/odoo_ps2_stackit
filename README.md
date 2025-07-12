@@ -31,5 +31,7 @@ StackIt is a modern, minimalistic Q&A platform designed for structured, communit
 | Auth          | Role-based (User/Admin/Guest)    |
 | State Mgmt    | React state / localStorage       |
 
+![StackIt Demo](./demo.png)
+
 
 
